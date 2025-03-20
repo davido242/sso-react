@@ -6,6 +6,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+## i had to add this and the value to a .env file
+
+REACT_APP_CLIENT_ID
+
 ### `npm start`
 
 Runs the app in the development mode.\
